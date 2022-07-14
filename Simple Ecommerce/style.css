@@ -1,0 +1,72 @@
+.bus{
+background: #fceae8;
+border-radius: 8px;  
+padding: 40px 60px;
+ 
+}
+.container{
+    padding-bottom: 50px;
+    
+}
+.container .hm{
+   width: 65%;
+}
+.but{
+  
+    border: 0px solid;
+    border-radius: 5px;
+    background-image: linear-gradient(-30deg, red,yellow);
+    box-shadow: 0px 0px 0px grey;
+    padding: 10px 20px;
+}
+.text1 h1{
+margin-bottom: 60px;
+}
+.text1 p{
+margin-bottom: 20px;
+}
+
+.cat1{
+    background: red;
+}
+.cat2{
+    background: goldenrod;
+}
+.cat3{
+    background: pink;
+}
+.cat1,.cat2,.cat3{
+    border-radius: 10px;
+    padding: 20px;   
+    
+}
+.cat1:hover,.cat2:hover,.cat3:hover{
+    box-shadow: 10px 20px 40px grey;
+    
+}
+.cat1 img,.cat2 img ,.cat3 img{
+    height: 140px
+}
+
+
+
+.card{
+    box-shadow: 5px 5px 10px lightgrey;
+    border: none;
+    padding: 0px;
+}
+.card img{
+    height:300px
+}
+.img img{
+    height: 350px;
+}
+
+#Subscriber{
+    margin-bottom: 60px;
+    padding: 50px;
+    text-align: center;
+}
+.fot{
+    text-align: center;
+}
